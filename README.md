@@ -13,13 +13,17 @@
 
 <h2>punto 2: diseño en html</h2>
 
-<img scr="./public/paginaweb.png"></img>
+<img src="./public/imagenes/paginaweb.png" ></img>
 
 <h2>punto 3: diseño de css</h2>
 
 <h2>punto 4: titulo</h2>
 
+<img src="./public/imagenes/punto_4.png.png"></img>
+
 <h2>punto 5: parrafo</h2>
+
+<img src="./public/imagenes/punto-5.png"></img>
 
 <h2>punto 6: link</h2>
 

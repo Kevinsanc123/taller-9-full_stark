@@ -1,0 +1,14 @@
+body {
+    align-items:center;
+   display: flex;
+   flex-direction: column;
+   
+
+}
+.title-1{
+    color: blue;
+}
+
+.title-2 {
+    color:red;
+}
