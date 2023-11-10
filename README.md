@@ -8,7 +8,7 @@
 
 <h2>link de la pagina web</h2>
 
-<a hret="https://kevinsanc123.github.io/taller-9-full_stark/">pagina web</a>
+<link><a hret="https://kevinsanc123.github.io/taller-9-full_stark/">pagina web</a></link>
 
 <h2>punto 1 link figma</h2>
 <a hret="https://www.figma.com/file/mxEZ2KQvQQbhvosfIrefBi/kevin-santiago-cuitiva-bocanegra?type=design&node-id=10%3A2&mode=design&t=JOpfgUHqTQMSI6IL-1">Link de Figma</a>
