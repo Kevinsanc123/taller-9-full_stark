@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 100px;
+
+}
+
+.header__navigator {
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    color: 45;
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+nav a {
+    color: #454668;
+    text-decoration: none;
+    font-weight: 40px;
+}
+
+.header__settings {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+ 
+.language {
+    display: flex;
+    align-items: center;
+    font-weight: 300px;
+    color: #454668;
+}
+
+
+header button {
+
+    background-color: transparent;
+    border: 1px solid #45466843;
+    color: #454668;
+}
