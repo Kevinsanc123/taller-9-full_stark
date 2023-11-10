@@ -17,7 +17,7 @@
 
 <h2>punto 3: diseño de css</h2>
 
-<img src="/public/imagenes/punto-3.png.png><img>
+<img src="/public/imagenes/punto-3.png.png"><img>
 
 <h2>punto 4: titulo</h2>
 
