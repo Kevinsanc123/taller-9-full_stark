@@ -1,8 +1,19 @@
-.hover {
+body{
+    padding: 0px 400px;
+    font-size: 35px;
+    background-color:  bisque;
+}
+
+
+.hover  a{
     color: black;
 }
 
-.marca {
-    color: yellow;
+
+.marca a {
+color: yellow;
 }
 
+.AS {
+    color: rgb(214, 7, 255);
+}
