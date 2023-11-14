@@ -1,0 +1,28 @@
+table {
+    margin: 24px 372px;
+    background-color: yellow;
+    border-collapse:collapse
+}
+
+
+th{
+	border:1px solid #000;
+	width:150px;
+	height:45px;
+	text-align:center;
+}
+th{
+	color:#dd1b1b;
+
+}
+
+
+td {
+    border:1px solid #000;
+	width:150px;
+	height:45px;
+	vertical-align:middle;
+	text-align:left;
+}
+
+

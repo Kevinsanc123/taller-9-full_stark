@@ -38,3 +38,5 @@
 <img src="./public/imagenes/punto-7-8.png"></img>
 
 <h2>punto 9: tablas</h2>
+
+<img src="./public/imagenes/punto-9.png"></img>
